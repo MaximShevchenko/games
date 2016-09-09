@@ -7,9 +7,13 @@ h2{
 	letter-spacing:-0.6px;
 	
 }
-#player1{
+#player1{ position: absolute;
 	color: rgba(255,0,0,.8);
+	left: 80px;
+	top: 30px;
 }
-#player2{
-	color: rgba(0,0,255,.8);
+#player2{position: absolute;
+	color: rgba(0,0,255,0.8);
+	left: 1000px;	
+	top:30px;
 	}
